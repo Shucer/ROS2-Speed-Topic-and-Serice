@@ -1,0 +1,6 @@
+float32 left_wheel
+float32 right_wheel
+float32 speed_limit
+---
+float32 speed_margin
+bool limit_exceeded
